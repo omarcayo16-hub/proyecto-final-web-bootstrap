@@ -1,0 +1,14 @@
+.ocq-bg-rosa-palido{
+    background-color: #CC9089;
+}
+
+.ocq-font-logo{
+  font-family: "Oswald", sans-serif;
+  font-weight: 700; 
+  text-transform: uppercase;
+}
+
+.ocq-font-link{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+}
