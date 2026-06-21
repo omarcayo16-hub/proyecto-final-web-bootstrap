@@ -8,6 +8,10 @@
   border-radius: 10px;
 }
 .ocq-font-link{
-    font-family: "Oswald", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
+}
+
+.ocq-bg-rosa-palido{
+    background-color: #CC9089;
 }

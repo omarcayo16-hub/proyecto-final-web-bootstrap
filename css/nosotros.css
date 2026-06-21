@@ -1,9 +1,20 @@
-.ocq-font-logo{
+.ocq-font-logo {
   font-family: "Oswald", sans-serif;
-  font-weight: 700; 
+  font-weight: 700;
   text-transform: uppercase;
 }
-.btn.ocq-w{
+
+.btn.ocq-w {
   width: 100px;
   border-radius: 10px;
+}
+
+.ocq-bg-rosa-palido {
+  background-color: #CC9089;
+}
+
+
+.ocq-font-link {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
 }
